@@ -1,6 +1,6 @@
 [index.html.html](https://github.com/user-attachments/files/27593415/index.html.html)
 
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
 <meta charset="UTF-8" />
